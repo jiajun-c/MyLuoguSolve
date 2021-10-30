@@ -1,5 +1,5 @@
 #include<iostream>
-#define N 1010
+#define N 1010 //
 using namespace std;
 int n, a[N], b[N], c[N];
 int main() {
